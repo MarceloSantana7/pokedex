@@ -1,6 +1,15 @@
 * {
     font-family: 'Roboto', sans-serif;
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow-x: hidden;
 }
 
 body {
@@ -13,6 +22,11 @@ body {
     padding: 1rem;   
     background-color: #fff; 
 }
+
+h1 {
+    text-align: center;
+}
+  
 
 @media screen and (min-width: 992px) {
     .content {
