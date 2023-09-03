@@ -29,6 +29,10 @@ Este projeto é uma aplicação web para exibir uma lista de Pokémons usando HT
 
 1. Abra o arquivo `index.html` no seu navegador.
 
+### Deploy
+
+https://marcelosantana7.github.io/pokedex/
+
 ## Tecnologias Utilizadas
 
 - HTML5
